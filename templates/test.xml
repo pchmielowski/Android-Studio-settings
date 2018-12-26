@@ -1,0 +1,14 @@
+<templateSet group="test">
+  <template name="ati" value="val result = $RESULT$&#10;assertThat(result, `is`($EXPECTED$))" description="assert that is..." toReformat="false" toShortenFQNames="true">
+    <variable name="RESULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="timport" value="import org.hamcrest.Matchers.`is`&#10;import org.junit.Assert.assertThat" description="test imports" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

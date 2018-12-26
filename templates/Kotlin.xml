@@ -1,0 +1,7 @@
+<templateSet group="Kotlin">
+  <template name="pv" value="private val " description="private val" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="androidx.room.Query(value)" />
+        <added pattern="com.ready4s.skirrel.ui.Navigator.navigate(id,args)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

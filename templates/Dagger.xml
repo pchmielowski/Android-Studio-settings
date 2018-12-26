@@ -1,0 +1,31 @@
+<templateSet group="Dagger">
+  <template name="provides" value="@Provides&#10;@JvmStatic&#10;fun provide$TYPE$() = $BODY$" description="Module provider" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="binds" value="@Binds&#10;abstract fun bind$TYPE$(impl : $TYPE$Impl) : $TYPE$" description="Module binder" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="module" value="// TODO: add to component!&#10;@Suppress(&quot;unused&quot;)&#10;@Module&#10;abstract class $NAME$Module {&#10;&#10;    @Module&#10;    companion object&#10;}" description="Module" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="ictor" value="@Inject constructor()" description="Inject constructor" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="ifield" value="@Inject&#10;lateinit var " description="Inject field" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
