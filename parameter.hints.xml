@@ -4,7 +4,10 @@
       <blacklist language="Kotlin">
         <added pattern="androidx.room.Query(value)" />
         <added pattern="com.ready4s.skirrel.ui.Navigator.navigate(id,args)" />
+        <added pattern="kotlinx.coroutines.delay(timeMillis)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
