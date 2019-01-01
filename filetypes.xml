@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="planuml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
