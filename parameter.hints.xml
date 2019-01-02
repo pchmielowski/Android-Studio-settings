@@ -4,7 +4,8 @@
       <blacklist language="Kotlin">
         <added pattern="androidx.room.Query(value)" />
         <added pattern="com.ready4s.skirrel.ui.Navigator.navigate(id,args)" />
-        <added pattern="kotlinx.coroutines.delay(timeMillis)" />
+        <added pattern="com.ready4s.skirrel.network.RoomDto(id,name,qrCode,date,participants,active,totalParticipants)" />
+        <added pattern="com.ready4s.skirrel.ui.RoomItem(id,name,date,member1,member2,memberCount)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />

@@ -1,7 +1,8 @@
 <templateSet group="AndroidLog">
-  <template name="pchm" value="android.util.Log.d(&quot;pchm&quot;, &quot;$METHOD_NAME$&quot;)" description="pchm" toReformat="true" toShortenFQNames="true">
+  <template name="pchm" value="android.util.Log.d(&quot;pchm&quot;, &quot;$METHOD_NAME$&quot;)" description="pchm log" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
     <context>
+      <option name="JAVA_STATEMENT" value="true" />
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
