@@ -34,4 +34,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="bindvm" value="@Binds&#10;@IntoMap&#10;@ViewModelKey($MODEL$::class)&#10;abstract fun bind$MODEL$(impl: $MODEL$): ViewModel&#10;" description="Bind view model" toReformat="false" toShortenFQNames="true">
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
