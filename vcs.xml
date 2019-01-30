@@ -30,9 +30,13 @@
           <option name="url" value="git@github.com:twilio/video-quickstart-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.it4s.ovh:TermaGroup/mobile/and_newtermagroup.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\piotr\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\piotr_000\StudioProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/StudioProjects/and_skirrel" />
