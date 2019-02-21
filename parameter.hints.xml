@@ -1,6 +1,8 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Groovy" />
       <blacklist language="Kotlin">
         <added pattern="androidx.room.Query(value)" />
         <added pattern="com.ready4s.skirrel.ui.Navigator.navigate(id,args)" />
@@ -8,6 +10,10 @@
         <added pattern="com.ready4s.skirrel.ui.RoomItem(id,name,date,member1,member2,memberCount)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_PARAMETER_HINT" value="false" />
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
+    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
