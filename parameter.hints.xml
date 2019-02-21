@@ -15,6 +15,5 @@
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
-    <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
   </component>
 </application>
