@@ -3,17 +3,9 @@
     <blacklists>
       <blacklist language="Java" />
       <blacklist language="Groovy" />
-      <blacklist language="Kotlin">
-        <added pattern="androidx.room.Query(value)" />
-        <added pattern="com.ready4s.skirrel.ui.Navigator.navigate(id,args)" />
-        <added pattern="com.ready4s.skirrel.network.RoomDto(id,name,qrCode,date,participants,active,totalParticipants)" />
-        <added pattern="com.ready4s.skirrel.ui.RoomItem(id,name,date,member1,member2,memberCount)" />
-      </blacklist>
+      <blacklist language="Kotlin" />
     </blacklists>
-    <option id="SHOW_PARAMETER_HINT" value="false" />
-    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
-    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
   </component>
 </application>
