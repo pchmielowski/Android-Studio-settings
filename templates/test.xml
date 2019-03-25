@@ -6,7 +6,7 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="timport" value="import org.hamcrest.CoreMatchers.`is`&#10;import org.junit.Assert.assertThat" description="test imports" toReformat="false" toShortenFQNames="true">
+  <template name="timport" value="import org.hamcrest.CoreMatchers.`is` as Is&#10;import org.junit.Assert.assertThat&#10;import org.junit.Test&#10;" description="test imports" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
