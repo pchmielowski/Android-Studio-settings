@@ -11,7 +11,7 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="test" value="&#10;    @Test&#10;    fun pass() {&#10;        assertThat(2 + 2, `is`(4))&#10;    }&#10;&#10;    @Test&#10;    fun fail() {&#10;        assertThat(2 + 4, `is`(4))&#10;    }" description="Dummy test for checking if setup is correct" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="&#10;    @Test&#10;    fun pass() {&#10;        assertThat(2 + 2, Is(4))&#10;    }&#10;&#10;    @Test&#10;    fun fail() {&#10;        assertThat(2 + 4, Is(4))&#10;    }" description="Dummy test for checking if setup is correct" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
