@@ -46,12 +46,36 @@
           <option name="url" value="git@git.it4s.ovh:wowstuff/mobile/and_ic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/video-quickstart-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/Android-Utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/Temperature-chooser.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/Algilez.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/Words.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.it4s.ovh:easybooks/mobile/and_easybooks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/Keep-on-idlin-.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\piotr\AndroidStudioProjects" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/StudioProjects/and_skirrel" />
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+    <option name="cloneParentDir" value="C:\Users\piotr\StudioProjects" />
   </component>
 </application>
