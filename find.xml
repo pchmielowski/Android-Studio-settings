@@ -8,12 +8,13 @@
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.png</mask>
+    <mask>*.java</mask>
+    <mask>*.gradle</mask>
+    <mask>*.kt</mask>
     <mask>*.xml</mask>
   </component>
 </application>

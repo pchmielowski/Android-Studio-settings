@@ -70,6 +70,10 @@
           <option name="url" value="git@git.it4s.ovh:easybooks/mobile/and_easybooks.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/Keep-on-idlin-.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\piotr\StudioProjects" />
