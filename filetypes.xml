@@ -4,6 +4,7 @@
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="benchmark" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="AndroidManifest" type="XML" />
     </extensionMap>
   </component>
 </application>
