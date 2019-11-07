@@ -14,6 +14,10 @@
           <option name="url" value="git@git.it4s.ovh:sharezie/mobile/and_sharezie.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.it4s.ovh:skirrel/mobile/and_skirrel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\piotr\StudioProjects" />
