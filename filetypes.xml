@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="2_2" type="PLAIN_TEXT" />
+      <mapping pattern="q" type="PLAIN_TEXT" />
+      <mapping pattern="benchmark" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="1_2" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
-      <mapping pattern="benchmark" type="PLAIN_TEXT" />
+      <mapping pattern="2_2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="AndroidManifest" type="XML" />
