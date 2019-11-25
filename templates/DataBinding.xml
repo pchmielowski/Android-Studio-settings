@@ -1,0 +1,10 @@
+<templateSet group="DataBinding">
+  <template name="adapter" value="@BindingAdapter(&quot;$NAME$&quot;)&#10;fun $VIEW$.set$NAME$($VALUE$) {&#10;&#10;}" description="Data binding adapter" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
