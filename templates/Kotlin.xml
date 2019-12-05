@@ -4,4 +4,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="blocking" value="runBlocking { $SELECTION$ }" description="Run blocking" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
