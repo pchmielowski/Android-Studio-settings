@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,12 +13,12 @@
     <mask>*.mxml</mask>
     <mask>gradle</mask>
     <mask>build*</mask>
-    <mask>strings.xml</mask>
     <mask>*kt</mask>
     <mask>*.xml</mask>
     <mask>nav*.xml</mask>
     <mask>*adapter*</mask>
     <mask>*xml</mask>
     <mask>*.kt</mask>
+    <mask>strings.xml</mask>
   </component>
 </application>
