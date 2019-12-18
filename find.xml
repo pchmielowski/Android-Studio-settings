@@ -1,13 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="customScope" value="Project 'StateSnapshot'" />
+    <option name="defaultScopeName" value="Project 'StateSnapshot'" />
+    <option name="SEARCH_SCOPE" value="Project 'StateSnapshot'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +13,6 @@
     <mask>*.mxml</mask>
     <mask>gradle</mask>
     <mask>build*</mask>
-    <mask>*kt</mask>
     <mask>*.xml</mask>
     <mask>nav*.xml</mask>
     <mask>*adapter*</mask>
@@ -26,5 +20,6 @@
     <mask>strings.xml</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*kt</mask>
   </component>
 </application>
