@@ -31,6 +31,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/StateSnapshot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="git@github.com:pchmielowski/TabTest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
