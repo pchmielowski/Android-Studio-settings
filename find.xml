@@ -13,13 +13,14 @@
     <mask>*.mxml</mask>
     <mask>gradle</mask>
     <mask>build*</mask>
-    <mask>*.xml</mask>
     <mask>nav*.xml</mask>
     <mask>*adapter*</mask>
     <mask>*xml</mask>
-    <mask>strings.xml</mask>
     <mask>*.kt</mask>
     <mask>*kt</mask>
+    <mask>*sqm</mask>
     <mask>*.gradle</mask>
+    <mask>strings.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
