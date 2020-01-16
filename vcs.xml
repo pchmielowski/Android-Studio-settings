@@ -42,6 +42,10 @@
           <option name="url" value="git@git.it4s.ovh:portable-north-pole/mobile/android-portable-north-pole.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/pnp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\piotr\StudioProjects" />
