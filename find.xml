@@ -18,10 +18,10 @@
     <mask>*xml</mask>
     <mask>*kt</mask>
     <mask>*sqm</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>values.xml</mask>
     <mask>strings.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
