@@ -23,5 +23,6 @@
     <mask>*.gradle</mask>
     <mask>strings.xml</mask>
     <mask>*.kt</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
