@@ -10,4 +10,11 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="json" value="&#10;    @FromJson&#10;    fun to$NAME$(raw: $TYPE$) = $NAME$(raw)&#10;&#10;    @ToJson&#10;    fun from$NAME$(wrapped: $NAME$) = wrapped.value&#10;" description="Moshi Json Adapter" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
