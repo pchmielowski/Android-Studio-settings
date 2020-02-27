@@ -27,4 +27,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="param" value="    @EnumSource(TestCase::class)&#10;    @ParameterizedTest&#10;    internal fun name($PARAMS$) {&#10;&#10;    }&#10;    &#10;    enum class TestCase($PARAMS$)" description="Parametrized test" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
