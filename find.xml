@@ -9,6 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sq" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -32,5 +33,6 @@
     <mask>build.gradle</mask>
     <mask>strings*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.sq</mask>
   </component>
 </application>
