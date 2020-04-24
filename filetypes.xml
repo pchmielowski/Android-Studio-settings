@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="benchmark" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="1_2" type="PLAIN_TEXT" />
