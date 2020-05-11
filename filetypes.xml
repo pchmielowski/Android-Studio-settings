@@ -21,6 +21,7 @@
       <mapping pattern="2_2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="bash" type="PLAIN_TEXT" />
+      <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="PassBanner" type="SqlDelight" />
