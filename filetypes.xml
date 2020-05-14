@@ -18,6 +18,7 @@
       <mapping pattern="after" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="2_2" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
