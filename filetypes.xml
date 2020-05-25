@@ -23,13 +23,12 @@
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping ext="bash" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="PassBanner" type="SqlDelight" />
-      <mapping pattern="platform_themes" type="XML" />
       <mapping pattern="AndroidManifest" type="XML" />
+      <mapping pattern="platform_themes" type="XML" />
     </extensionMap>
   </component>
 </application>
