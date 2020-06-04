@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="benchmark" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="prev" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
@@ -25,7 +25,6 @@
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
-      <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="PassBanner" type="SqlDelight" />
       <mapping pattern="platform_themes" type="XML" />
