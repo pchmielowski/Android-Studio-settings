@@ -25,10 +25,11 @@
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
+      <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="PassBanner" type="SqlDelight" />
-      <mapping pattern="AndroidManifest" type="XML" />
       <mapping pattern="platform_themes" type="XML" />
+      <mapping pattern="AndroidManifest" type="XML" />
     </extensionMap>
   </component>
 </application>
