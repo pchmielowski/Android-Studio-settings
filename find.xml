@@ -29,7 +29,7 @@
     <mask>*.json</mask>
     <mask>build.gradle</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.sq</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
