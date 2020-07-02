@@ -22,4 +22,12 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="dbuc" value="class $NAME$(private val database: Database, private val context: CoroutineContext) {&#10;    &#10;    suspend operator fun invoke() = withContext(context) {&#10;        database.$OPERATION$&#10;    }&#10;}&#10;&#10;" description="Use case to perform database operation" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OPERATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
