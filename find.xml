@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
@@ -26,12 +24,12 @@
     <mask>strings.xml</mask>
     <mask>*Test*</mask>
     <mask>*.java</mask>
-    <mask>strings*.xml</mask>
     <mask>str*.xml</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.sq</mask>
     <mask>*.kt</mask>
     <mask>build.gradle</mask>
+    <mask>strings*.xml</mask>
   </component>
 </application>
