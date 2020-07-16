@@ -16,7 +16,6 @@
     <mask>build*</mask>
     <mask>nav*.xml</mask>
     <mask>*adapter*</mask>
-    <mask>*xml</mask>
     <mask>*kt</mask>
     <mask>*sqm</mask>
     <mask>values.xml</mask>
@@ -24,12 +23,14 @@
     <mask>strings.xml</mask>
     <mask>*Test*</mask>
     <mask>*.java</mask>
-    <mask>strings*.xml</mask>
     <mask>str*.xml</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
-    <mask>*.sq</mask>
+    <mask>strings*.xml</mask>
     <mask>build.gradle</mask>
+    <mask>*Impl.kt</mask>
     <mask>*.kt</mask>
+    <mask>*xml</mask>
+    <mask>*.sq</mask>
   </component>
 </application>
