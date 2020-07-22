@@ -30,7 +30,7 @@
     <mask>build.gradle</mask>
     <mask>*Impl.kt</mask>
     <mask>*.kt</mask>
-    <mask>*xml</mask>
     <mask>*.sq</mask>
+    <mask>*xml</mask>
   </component>
 </application>
