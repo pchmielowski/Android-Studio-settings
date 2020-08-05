@@ -19,6 +19,7 @@
       <mapping pattern="after" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="2_2" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
