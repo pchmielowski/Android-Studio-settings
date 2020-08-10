@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -32,7 +33,7 @@
     <mask>*.kt</mask>
     <mask>build.gradle</mask>
     <mask>strings*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.sq</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
