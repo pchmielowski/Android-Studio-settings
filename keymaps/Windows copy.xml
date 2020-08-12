@@ -4,7 +4,7 @@
   </action>
   <action id="ActivateTODOToolWindow" />
   <action id="Unsplit">
-    <mouse-shortcut keystroke="shift button1" />
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
