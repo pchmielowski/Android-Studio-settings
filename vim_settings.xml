@@ -2,13 +2,55 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/StudioProjects/pnp-android/app/src/main/java/com/ugroupmedia/pnp/ui/parent/perso/VideoPlayerFragment.kt" timestamp="1597417376879">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1597417312940">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="18" />
+      </file>
+    </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
