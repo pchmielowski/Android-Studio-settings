@@ -25,10 +25,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/StudioProjects/pnp-android/app/src/main/java/com/ugroupmedia/pnp/ui/parent/perso/VideoPlayerFragment.kt" timestamp="1597417376879">
+      <file name="/Dummy.txt" timestamp="1597417392068">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/pnp-android/app/src/main/java/com/ugroupmedia/pnp/ui/parent/perso/PersoFlowNavigation.kt" timestamp="1597417457681" />
+      <file name="$USER_HOME$/StudioProjects/pnp-android/app/src/main/java/com/ugroupmedia/pnp/ui/parent/perso/VideoPlayerFragment.kt" timestamp="1597417442082">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
+        <mark key="^" line="116" column="23" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1597417312940">
         <mark key="[" line="0" column="0" />
@@ -42,9 +47,12 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcnNvPy4K</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcnNvPy4K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
@@ -59,7 +67,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
