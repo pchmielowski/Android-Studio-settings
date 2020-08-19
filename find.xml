@@ -29,8 +29,8 @@
     <mask>*xml</mask>
     <mask>build.gradle</mask>
     <mask>strings*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.sq</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
