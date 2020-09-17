@@ -32,5 +32,6 @@
     <mask>*.xml</mask>
     <mask>*.sq</mask>
     <mask>*.kt</mask>
+    <mask>*.sq*</mask>
   </component>
 </application>
