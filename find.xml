@@ -32,7 +32,7 @@
     <mask>*.sq</mask>
     <mask>themes.xml</mask>
     <mask>*.kt</mask>
-    <mask>*.sq*</mask>
     <mask>build.gradle</mask>
+    <mask>*.sq*</mask>
   </component>
 </application>
