@@ -9,4 +9,11 @@
     <entry key="debugger.showTypes" value="false" />
     <entry key="ide.tooltip.initialDelay" value="805" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
