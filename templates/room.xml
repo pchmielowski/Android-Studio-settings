@@ -1,5 +1,5 @@
 <templateSet group="room">
-  <template name="converter" value="@TypeConverter&#10;fun encode$class$(model : $class$) = model.value&#10;&#10;@TypeConverter&#10;fun decode$class$(value : $rawType$) = $class$(value)" description="Room database type converter" toReformat="false" toShortenFQNames="true">
+  <template name="converter" value="@TypeConverter&#10;fun encode$class$(model : $class$) = model.value&#10;&#10;@TypeConverter&#10;fun decode$class$(value : $rawType$) = $class$(value)" description="Room database type converter" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="rawType" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
