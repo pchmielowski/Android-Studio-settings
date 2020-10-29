@@ -36,8 +36,8 @@
     <mask>*Test*.kt</mask>
     <mask>build.gradle</mask>
     <mask>*xml</mask>
-    <mask>*.sq*</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*.sq*</mask>
   </component>
 </application>
