@@ -1,37 +1,17 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>gradle</mask>
-    <mask>build*</mask>
-    <mask>nav*.xml</mask>
-    <mask>*adapter*</mask>
-    <mask>*kt</mask>
-    <mask>*sqm</mask>
-    <mask>values.xml</mask>
-    <mask>*.gradle</mask>
-    <mask>strings.xml</mask>
-    <mask>*Test*</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>str*.xml</mask>
-    <mask>*.json</mask>
-    <mask>*Impl.kt</mask>
-    <mask>strings*.xml</mask>
-    <mask>*.sq</mask>
-    <mask>themes.xml</mask>
-    <mask>*Test*.kt</mask>
-    <mask>build.gradle</mask>
-    <mask>*xml</mask>
     <mask>*.xml</mask>
-    <mask>*.sq*</mask>
-    <mask>*.kt</mask>
   </component>
 </application>
