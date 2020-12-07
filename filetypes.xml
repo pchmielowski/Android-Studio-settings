@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="benchmark" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
@@ -25,10 +26,9 @@
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping pattern="PassBanner" type="SqlDelight" />
       <mapping pattern="platform_themes" type="XML" />
