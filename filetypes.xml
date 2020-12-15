@@ -11,6 +11,7 @@
       <mapping pattern="benchmark" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="qqq" type="PLAIN_TEXT" />
       <mapping pattern="prev" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
       <mapping pattern="font" type="PLAIN_TEXT" />
