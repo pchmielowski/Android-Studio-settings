@@ -1,0 +1,8 @@
+<templateSet group="AndroidKotlin">
+  <template name="bind" value="import com.ugroupmedia.pnp.ui.binding&#10;private val binding by binding($BINDING$::bind)&#10;" description="View binding" toReformat="false" toShortenFQNames="true">
+    <variable name="BINDING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
