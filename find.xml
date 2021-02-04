@@ -8,11 +8,12 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.sqm</mask>
     <mask>*.sq</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*QuestionView.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

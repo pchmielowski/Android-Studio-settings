@@ -5,4 +5,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="vh" value="typealias ViewHolder = com.ugroupmedia.pnp.ui.BindingViewHolder&lt;$BINDING$&gt;" description="ViewHolder typealias for binding ViewHolder" toReformat="false" toShortenFQNames="true">
+    <variable name="BINDING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
