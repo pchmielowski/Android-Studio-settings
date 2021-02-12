@@ -11,12 +11,12 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.sqm</mask>
-    <mask>*.sq</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*Fragment.kt</mask>
     <mask>*QuestionView.kt</mask>
     <mask>fragment_login*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.sq</mask>
   </component>
 </application>
