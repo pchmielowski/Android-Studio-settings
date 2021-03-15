@@ -3,19 +3,24 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.sqm</mask>
-    <mask>*.sq</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*Fragment.kt</mask>
     <mask>*QuestionView.kt</mask>
+    <mask>fragment_login*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.sq</mask>
+    <mask>build.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>

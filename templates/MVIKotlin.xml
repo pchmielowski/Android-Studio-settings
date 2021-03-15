@@ -1,0 +1,8 @@
+<templateSet group="MVIKotlin">
+  <template name="mvivm" value="class $NAME$ViewModel : ViewModel() {&#10;&#10;    private val storeFactory = TimeTravelStoreFactory(DefaultStoreFactory)&#10;&#10;    private val store = storeFactory.create(&#10;        name = &quot;$NAME$Store&quot;,&#10;        initialState = State(),&#10;        executorFactory = $NAME$ViewModel::Executor,&#10;        reducer = ReducerImpl(),&#10;    )&#10;    &#10;    fun observeModel(): Flow&lt;Model&gt; = store.states&#10;&#10;    fun observeLabels() = store.labels&#10;    &#10;    sealed class Intent&#10;    &#10;    private sealed class Result&#10;    &#10;    sealed class Label&#10;    &#10;    private data class State(&#10;    ) : Model&#10;&#10;    interface Model&#10;    &#10;    private class Executor : SuspendExecutor&lt;Intent, Nothing, State, Result, Label&gt;()&#10;    &#10;    private class ReducerImpl : Reducer&lt;State, Result&gt; {&#10;&#10;        override fun State.reduce(result: Result): State {&#10;            return this&#10;        }&#10;    }&#10;}" description="ViewModel for MVI Kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
