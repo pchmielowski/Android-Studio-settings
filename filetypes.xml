@@ -1,38 +1,37 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern="responses" type="PLAIN_TEXT" />
-      <mapping pattern="benchmark" type="PLAIN_TEXT" />
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping pattern="qqq" type="PLAIN_TEXT" />
-      <mapping pattern="prev" type="PLAIN_TEXT" />
-      <mapping pattern="Appfile" type="PLAIN_TEXT" />
-      <mapping pattern="font" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="dump" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="response" type="PLAIN_TEXT" />
-      <mapping pattern="before" type="PLAIN_TEXT" />
-      <mapping pattern="1_2" type="PLAIN_TEXT" />
-      <mapping pattern="after" type="PLAIN_TEXT" />
-      <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping pattern="2_2" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
-      <mapping pattern="main" type="PLAIN_TEXT" />
-      <mapping pattern="q" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="prev" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="before" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="PLAIN_TEXT" />
+      <mapping pattern="after" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="qqq" type="PLAIN_TEXT" />
+      <mapping pattern="q" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="1_2" type="PLAIN_TEXT" />
+      <mapping pattern="responses" type="PLAIN_TEXT" />
+      <mapping pattern="response" type="PLAIN_TEXT" />
+      <mapping pattern="Appfile" type="PLAIN_TEXT" />
+      <mapping pattern="dump" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="benchmark" type="PLAIN_TEXT" />
+      <mapping pattern="font" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping pattern="PassBanner" type="SqlDelight" />
       <mapping pattern="platform_themes" type="XML" />
