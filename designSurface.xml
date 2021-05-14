@@ -2,8 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/piotr/StudioProjects/Rememberthepill/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.6140625" />
         <entry key="..\:/Users/piotr/StudioProjects/Rememberthepill/app/src/main/res/layout/view_doze_list.xml" value="0.1" />
-        <entry key="..\:/Users/piotr/StudioProjects/Rememberthepill/app/src/main/res/mipmap/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/piotr/StudioProjects/Rememberthepill/app/src/main/res/mipmap/ic_launcher.xml" value="0.6140625" />
       </map>
     </option>
   </component>
