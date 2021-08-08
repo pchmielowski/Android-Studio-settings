@@ -92,6 +92,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bash">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -926,6 +935,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sht">
           <value>
             <plugin>
@@ -1203,11 +1221,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.yaml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.yml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.zip">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.zsh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1390,6 +1435,11 @@
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
                 </map>
