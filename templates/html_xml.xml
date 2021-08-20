@@ -1,7 +1,15 @@
-<templateSet group="html/xml">
-  <template name="pp" value="app:layout_constraintEnd_toEndOf=&quot;parent&quot;&#10;app:layout_constraintStart_toStartOf=&quot;parent&quot;" description="From parent's start to parent's end" toReformat="false" toShortenFQNames="true">
+<templateSet group="HTML/XML">
+  <template name="T" value="&lt;$TAG$&gt;$SELECTION$&lt;/$TAGNAME$&gt;" shortcut="TAB" description="Surround with &lt;tag&gt;&lt;/tag&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
     <context>
-      <option name="XML_TEXT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="JSP" value="true" />
     </context>
   </template>
 </templateSet>
