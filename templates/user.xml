@@ -1,0 +1,19 @@
+<templateSet group="user">
+  <template name="composable" value="@Composable&#10;private fun $NAME$(&#10;    content: @Composable () -&gt; Unit,&#10;) {&#10;}&#10;" description="@Composable annotated function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="modifier" value="modifier = androidx.compose.ui.Modifier," description="Composable Modifier" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+</templateSet>

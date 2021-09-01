@@ -1,7 +1,0 @@
-<templateSet group="html/xml">
-  <template name="pp" value="app:layout_constraintEnd_toEndOf=&quot;parent&quot;&#10;app:layout_constraintStart_toStartOf=&quot;parent&quot;" description="From parent's start to parent's end" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="XML_TEXT" value="true" />
-    </context>
-  </template>
-</templateSet>
