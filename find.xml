@@ -17,7 +17,7 @@
     <mask>fragment_login*.xml</mask>
     <mask>build.gradle</mask>
     <mask>*.kt</mask>
-    <mask>*.sq</mask>
     <mask>*.xml</mask>
+    <mask>*.sq</mask>
   </component>
 </application>
