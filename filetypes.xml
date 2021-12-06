@@ -32,6 +32,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="benchmark" type="PLAIN_TEXT" />
       <mapping pattern="font" type="PLAIN_TEXT" />
+      <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
