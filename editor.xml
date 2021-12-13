@@ -9,6 +9,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="KotlinReferencesTypeHintsProvider" />
