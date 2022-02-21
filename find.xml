@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Module 'Remember_the_pill.app'" />
+    <option name="defaultScopeName" value="Module 'Remember_the_pill.app'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Module 'Remember_the_pill.app'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,8 +16,8 @@
     <mask>*QuestionView.kt</mask>
     <mask>fragment_login*.xml</mask>
     <mask>build.gradle</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.sq</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
