@@ -35,6 +35,7 @@
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
+      <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping pattern="platform_themes" type="XML" />
