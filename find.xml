@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -19,7 +15,7 @@
     <mask>fragment_login*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.sq</mask>
-    <mask>*.kt</mask>
     <mask>build.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
