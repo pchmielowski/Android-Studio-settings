@@ -37,11 +37,11 @@
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="bat" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping pattern="platform_themes" type="XML" />
       <mapping pattern="AndroidManifest" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sq" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
