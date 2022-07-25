@@ -17,5 +17,6 @@
     <mask>*.sq</mask>
     <mask>build.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
