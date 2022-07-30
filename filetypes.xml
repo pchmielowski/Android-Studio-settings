@@ -6,6 +6,7 @@
       <mapping pattern="welcome_theme" type="AUTO_DETECTED" />
       <mapping pattern="Types" type="AUTO_DETECTED" />
       <mapping pattern="traffic" type="AUTO_DETECTED" />
+      <mapping pattern="SpeedUp" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="2_2" type="PLAIN_TEXT" />
@@ -39,7 +40,6 @@
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="bat" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping pattern="platform_themes" type="XML" />
       <mapping pattern="AndroidManifest" type="XML" />
