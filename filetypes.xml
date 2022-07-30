@@ -40,7 +40,6 @@
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="bat" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping pattern="platform_themes" type="XML" />
       <mapping pattern="AndroidManifest" type="XML" />
