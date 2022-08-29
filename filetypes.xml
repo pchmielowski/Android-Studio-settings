@@ -8,6 +8,7 @@
       <mapping pattern="traffic" type="AUTO_DETECTED" />
       <mapping pattern="SpeedUp" type="AUTO_DETECTED" />
       <mapping pattern="tags_with_data" type="AUTO_DETECTED" />
+      <mapping pattern="txt" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
