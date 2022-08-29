@@ -13,6 +13,7 @@
     <option name="INLINE_FIELD_THIS" value="true" />
     <option name="INLINE_LOCAL_THIS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_VAR_TYPE" value="true" />
     <option name="RENAME_TESTS" value="false" />
   </component>
 </application>
