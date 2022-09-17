@@ -9,13 +9,12 @@
       <mapping pattern="update" type="AUTO_DETECTED" />
       <mapping pattern="welcome_theme" type="AUTO_DETECTED" />
       <mapping pattern="txt" type="AUTO_DETECTED" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="prev" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
@@ -44,11 +43,11 @@
       <mapping ext="jsom" type="PLAIN_TEXT" />
       <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <mapping pattern="platform_themes" type="XML" />
       <mapping pattern="AndroidManifest" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sq" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
