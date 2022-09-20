@@ -3,7 +3,9 @@
     <blacklists>
       <blacklist language="Java" />
       <blacklist language="Groovy" />
-      <blacklist language="Kotlin" />
+      <blacklist language="Kotlin">
+        <added pattern="net.chmielowski.goodhabbit.data.CalculateStreakTest.test(days,dates)" />
+      </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
