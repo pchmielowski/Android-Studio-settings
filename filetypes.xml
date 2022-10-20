@@ -38,6 +38,7 @@
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="responses" type="PLAIN_TEXT" />
       <mapping pattern="font" type="PLAIN_TEXT" />
+      <mapping ext="txxt" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="jsom" type="PLAIN_TEXT" />
