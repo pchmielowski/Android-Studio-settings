@@ -1,56 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="Types" type="AUTO_DETECTED" />
-      <mapping pattern="trafffic" type="AUTO_DETECTED" />
-      <mapping pattern="traffic" type="AUTO_DETECTED" />
-      <mapping pattern="SpeedUp" type="AUTO_DETECTED" />
-      <mapping pattern="tags_with_data" type="AUTO_DETECTED" />
-      <mapping pattern="update" type="AUTO_DETECTED" />
-      <mapping pattern="welcome_theme" type="AUTO_DETECTED" />
-      <mapping pattern="txt" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern="before" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
-      <mapping pattern="prev" type="PLAIN_TEXT" />
-      <mapping pattern="main" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
-      <mapping pattern="Appfile" type="PLAIN_TEXT" />
-      <mapping pattern="new" type="PLAIN_TEXT" />
-      <mapping pattern="1_2" type="PLAIN_TEXT" />
-      <mapping pattern="benchmark" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="qqq" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
-      <mapping pattern="after" type="PLAIN_TEXT" />
-      <mapping pattern="dump" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern="b" type="PLAIN_TEXT" />
-      <mapping pattern="2_2" type="PLAIN_TEXT" />
-      <mapping pattern="q" type="PLAIN_TEXT" />
-      <mapping pattern="t" type="PLAIN_TEXT" />
-      <mapping pattern="response" type="PLAIN_TEXT" />
-      <mapping pattern="responses" type="PLAIN_TEXT" />
-      <mapping pattern="font" type="PLAIN_TEXT" />
-      <mapping ext="ps1" type="PLAIN_TEXT" />
-      <mapping ext="sh" type="PLAIN_TEXT" />
-      <mapping ext="jsom" type="PLAIN_TEXT" />
-      <mapping ext="bat" type="PLAIN_TEXT" />
-      <mapping ext="ps" type="PLAIN_TEXT" />
-      <mapping pattern="platform_themes" type="XML" />
-      <mapping pattern="AndroidManifest" type="XML" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="sq" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
