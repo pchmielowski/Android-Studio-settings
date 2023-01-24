@@ -13,8 +13,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
-      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="prev" type="PLAIN_TEXT" />
+      <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
@@ -50,7 +50,6 @@
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
-      <removed_mapping ext="sq" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="toml" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
