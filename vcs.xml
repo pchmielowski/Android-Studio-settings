@@ -142,6 +142,10 @@
           <option name="url" value="git@github.com:Automattic/pocket-casts-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:pchmielowski/Tools.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\piotr\StudioProjects" />
