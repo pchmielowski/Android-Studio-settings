@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sq" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,10 +18,10 @@
     <mask>*Fragment.kt</mask>
     <mask>*QuestionView.kt</mask>
     <mask>fragment_login*.xml</mask>
-    <mask>*.sq</mask>
     <mask>build.gradle</mask>
     <mask>*.cpp</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.sq</mask>
   </component>
 </application>
