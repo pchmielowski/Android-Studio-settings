@@ -13,8 +13,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="before" type="PLAIN_TEXT" />
-      <mapping pattern="prev" type="PLAIN_TEXT" />
       <mapping pattern=".gitlab-ci.yml" type="PLAIN_TEXT" />
+      <mapping pattern="prev" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="PLAIN_TEXT" />
